@@ -1,0 +1,40 @@
+.full {
+    float: left;
+    margin: 5px;
+}
+#image {
+    width: 130px;
+}
+.details {
+    margin-left: 60px;
+    color: #e22a15;
+}
+#name {
+    position: relative;
+    bottom: 140px;
+}
+#price {
+    position: relative;
+    bottom: 152px;
+}
+#size {
+    position: relative;
+    bottom: 167px;
+}
+.detalsfix {
+    position: relative;
+    bottom: 20px;
+}
+h6 {
+    position: relative;
+    bottom: 189px;
+    width: 130px;
+}
+#price_1 {
+    position: relative;
+    bottom: 20px;
+}
+#size_1 {
+    position: relative;
+    bottom: 40px;
+}
